@@ -16,6 +16,4 @@
 4、将自己想要识别的人脸放入到face_dataset中。  
 5、运行face_recognize.py即可。  
 6、align.py可以查看人脸对齐的效果。  
-# 效果
-face_recognize.py的运行结果：  
-![result](/result/result.png))  
+
